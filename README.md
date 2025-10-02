@@ -1,5 +1,13 @@
 # 🖥️ B3 - Atelier Environnement Windows
 
+---
+
+## 📌 Pré-requis
+- Une machine **Windows Server** (2019/2022 recommandé)  
+- Au moins un **client Windows 10/11** pour les tests  
+- Accès administrateur  
+- Connexion réseau entre serveur et client  init
+
 1) Installation du DNS
 2) Installation du DHCP
 3) Installation d'un IIS avec Wordpress
