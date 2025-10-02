@@ -5,8 +5,7 @@
 ## 📌 Pré-requis
 - Une machine **Windows Server** (2019/2022 recommandé)  
 - Au moins un **client Windows 10/11** pour les tests  
-- Accès administrateur  
-- Connexion réseau entre serveur et client  init
+- Connexion réseau entre serveur et client
 
 ---
 
