@@ -16,6 +16,13 @@
 - Créer une zone de recherche directe et inversée
 - Tester la résolution de noms depuis un client
 
+---
+
+### 2️⃣ Installation et configuration du **DHCP**
+- Ajouter le rôle **DHCP Server**
+- Créer un scope (plage d’adresses IP)
+- Vérifier l’attribution automatique d’IP sur un client
+
 2) Installation du DHCP
 3) Installation d'un IIS avec Wordpress
 4) Installation de l'Active Directory ( Avec Client )
