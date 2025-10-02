@@ -8,7 +8,14 @@
 - Accès administrateur  
 - Connexion réseau entre serveur et client  init
 
-1) Installation du DNS
+---
+
+## 🛠️ Étapes de l’atelier
+### 1️⃣ Installation et configuration du **DNS**
+- Ajouter le rôle **DNS Server**
+- Créer une zone de recherche directe et inversée
+- Tester la résolution de noms depuis un client
+
 2) Installation du DHCP
 3) Installation d'un IIS avec Wordpress
 4) Installation de l'Active Directory ( Avec Client )
