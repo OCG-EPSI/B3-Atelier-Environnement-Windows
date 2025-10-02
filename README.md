@@ -1,5 +1,6 @@
 # 🖥️ B3 - Atelier Environnement Windows
 
+*Rendu pour vendredi 10 Octobre à 12h00 sur theophile.garin1@mail-formateur.net*
 ---
 
 ## 📌 Pré-requis
